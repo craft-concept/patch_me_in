@@ -1,0 +1,6 @@
+module <%= class_name %>Patch
+  include PatchMeIn::Base
+
+  def some_new_method
+  end
+end
